@@ -14,7 +14,7 @@ import clsx from 'clsx';
 const links = [
   { name: 'Inicio', href: '/dashboard', icon: HomeIcon },
   {
-    name: 'Productos',
+    name: 'Facturas',
     href: '/dashboard/invoices',
     icon: DocumentDuplicateIcon,
   },
